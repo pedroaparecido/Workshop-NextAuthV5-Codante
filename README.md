@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+### Sobre o Projeto
+
+O projeto foi por interesse em atualizar a autorização e autenticação por meio de outras ferramentas, pois quando aprendi javascript (começo desse ano(2024)), iniciei com getserversideprops e atualmente o react está utilizando os componentes de forma diferente com arquivos do servidor e arquivos do cliente, o que me deu dificuldade de continuar a aprender.
+Senti a necessidade de atualizar o que foi aprendido dentro dos cursos cujo eu aprendi e desenvolvi habilidades dentro do react. Que por acaso eu fiz um primeiro projeto em ts e agora me surgiu esse workshop em tsx
